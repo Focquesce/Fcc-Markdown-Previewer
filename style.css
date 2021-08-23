@@ -1,0 +1,26 @@
+$teal: #2e5090;
+$tear: #8080ff;
+
+#editor {
+  color: $tear;
+  background-color: #e9f6ff;
+}
+
+.col-6 {
+  margin: 0 auto;
+} 
+
+#V {
+  background-color: $teal;
+  color: #be211a;
+}
+
+#A {
+  background-color: cyan;
+  color: violet;
+}
+
+#X {
+  background-color: fuchsia;
+  color: chartreuse;
+}
